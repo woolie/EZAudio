@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9D6FF97A89F512CD81EAE1A971A1D2EB03E03F7C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "948D8EB7182845DF9DDA923F75DC992E31C2583F" : 0,
+    "9D6FF97A89F512CD81EAE1A971A1D2EB03E03F7C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5A6DF897-0AA9-4ECE-8699-F2138FB48A55",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "948D8EB7182845DF9DDA923F75DC992E31C2583F" : "..",
+    "9D6FF97A89F512CD81EAE1A971A1D2EB03E03F7C" : "EZAudio\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "EZAudio",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "EZAudio.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:woolie\/followalong.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "948D8EB7182845DF9DDA923F75DC992E31C2583F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:woolie\/EZAudio.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9D6FF97A89F512CD81EAE1A971A1D2EB03E03F7C"
+    }
+  ]
+}
